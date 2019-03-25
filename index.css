@@ -7,7 +7,7 @@
 .header a{
   overflow: hidden;
   background-color: #C58FE0;
-  float: left;
+  float: center;
   color:black;
   text-align: center;
   padding: 12px;
@@ -15,7 +15,6 @@
   font-size: 18px;
   line-height:25px;
   border-radius: 4px;
-  text-align: justify center;
 }
 
 .header a:hover{
