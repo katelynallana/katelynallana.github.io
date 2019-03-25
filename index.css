@@ -1,5 +1,28 @@
-.MENU{
-  color: #C58FE0
+.header{
+  overflow: hidden;
+  background-color: #C58FE0;
+  padding: 20px 10px;
+}
+
+.header a{
+  float: left;
+  color:black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height:25px;
+  border-radius: 4px
+}
+
+.header a:hover{
+  background-color: #C58FE0;
+  color:black;
+}
+
+.header a.active{
+  background-color: #98C6E3;
+  color: black;
 }
 
 p {
