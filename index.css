@@ -2,7 +2,7 @@
   overflow: hidden;
   background-color: #C58FE0;
   padding: 20px 300px 20px;
-  align-content:stretch;
+  align-content: center;
 }
 
 .header a{
@@ -17,6 +17,7 @@
   line-height:25px;
   border-radius: 4px;
   overflow:auto;
+  align-content: space-around;
 }
 
 .header a:hover{
