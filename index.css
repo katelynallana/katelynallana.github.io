@@ -8,17 +8,14 @@
 .menu a{
   overflow: hidden;
   background-color: #C58FE0;
-  float: center;
   color:black;
-  text-align: center;
   padding: 12px 6px 12px 6px;
   text-decoration: none;
   font-size: 18px;
   line-height:25px;
   border-radius: 4px;
-  overflow:auto;
-  align-content: space-around;
-  margin:auto;
+  justify-content: center;
+  align-items: center;
 }
 
 .menu a:hover{
