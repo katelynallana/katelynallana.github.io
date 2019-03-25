@@ -2,6 +2,7 @@
   overflow: hidden;
   background-color: #C58FE0;
   padding: 20px 300px 20px;
+  align-content:stretch;
 }
 
 .header a{
