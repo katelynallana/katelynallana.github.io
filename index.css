@@ -5,7 +5,7 @@
 }
 
 .header a{
-  float: none;
+  float: left;
   color:black;
   text-align: center;
   padding: 12px;
