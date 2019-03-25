@@ -1,11 +1,11 @@
-.header{
+.menu{
   overflow: hidden;
   background-color: #C58FE0;
   padding: 20px 300px 20px;
   align-content: center;
 }
 
-.header a{
+.menu a{
   overflow: hidden;
   background-color: #C58FE0;
   float: center;
@@ -20,17 +20,17 @@
   align-content: space-around;
 }
 
-.header a:hover{
+.menu a:hover{
   background-color: #C58FE0;
   color:black;
 }
 
-.header a.active{
+.menu a.active{
   background-color: #98C6E3;
   color: black;
 }
 
-.header-center{
+.menu-center{
   float:center;
 }
 
