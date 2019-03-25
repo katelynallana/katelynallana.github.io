@@ -29,4 +29,6 @@ p {
   color:black;
   font-size: 12px;
   margin: auto;
+  padding-left: 50px;
+  padding-right:50px;
  }
