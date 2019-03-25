@@ -2,7 +2,6 @@
   overflow: hidden;
   background-color: #C58FE0;
   padding: 20px 10px;
-  justify-content: space-between;
 }
 
 .header a{
@@ -16,6 +15,7 @@
   font-size: 18px;
   line-height:25px;
   border-radius: 4px;
+  text-align: justify center;
 }
 
 .header a:hover{
@@ -49,4 +49,5 @@ p {
   margin: auto;
   padding-left: 50px;
   padding-right:50px;
+  text-align: center;
  }
