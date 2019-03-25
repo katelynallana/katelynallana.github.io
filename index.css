@@ -1,22 +1,5 @@
-.tab{
-  overflow:hidden;
-  border:1px solid #C58FE0;
-  background-color: #C58FE0;
-}
-
-.tab button:hover{
-  background-color: #98C6E3;
-}
-
-.tab button.active{
-  background-color: #98C6E3;
-}
-
-.tabcontent{
-  display:none;
-  padding: 6px 12px;
-  border: 1px solid #C58FE0;
-  border-top:none;
+.MENU{
+  color: #C58FE0
 }
 
 p {
