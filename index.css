@@ -1,4 +1,6 @@
-.header{
+.header {
+  overflow: hidden;
+  background-color: #C58FE0;
   float: left;
   color:black;
   text-align: center;
