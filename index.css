@@ -1,4 +1,10 @@
-.header {
+.header{
+  overflow: hidden;
+  background-color: #C58FE0;
+  padding: 20px 10px;
+}
+
+.header a{
   overflow: hidden;
   background-color: #C58FE0;
   float: left;
@@ -11,12 +17,12 @@
   border-radius: 4px
 }
 
-.header:hover{
+.header a:hover{
   background-color: #C58FE0;
   color:black;
 }
 
-.header .active{
+.header a.active{
   background-color: #98C6E3;
   color: black;
 }
