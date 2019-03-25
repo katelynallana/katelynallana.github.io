@@ -1,7 +1,10 @@
 .header{
   overflow: hidden;
   background-color: #C58FE0;
-  padding: 20px 325px;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+
 }
 
 .header a{
