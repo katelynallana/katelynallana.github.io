@@ -40,9 +40,17 @@ h1 {
   text-align: center;
 }
 
-img.resize {
-  width: 512px;
-  height: 512px;
+row {
+  width: auto;
+  height: auto;
+  text-align:center;
+  padding:20px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 footer {
