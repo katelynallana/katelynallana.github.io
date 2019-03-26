@@ -1,11 +1,12 @@
 ul{
   list-style: none;
   padding:40px;
-  margin:20px;
+  margin:0px;
 }
 
 a:link{
   color:black;
+  margin: 20px;
 }
 
 a:visited{
