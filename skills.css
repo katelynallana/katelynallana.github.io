@@ -45,6 +45,7 @@ row {
   height: auto;
   text-align:center;
   padding:20px;
+  flex-wrap: wrap;
 }
 
 img {
