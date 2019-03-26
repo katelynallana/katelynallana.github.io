@@ -29,7 +29,7 @@ a:active{
   background-color: #f7a5c6;
 }
 
-.menu{
+.nav{
   display: flex;
   justify-content: space-around;
   background-color: #C58FE0;
