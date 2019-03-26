@@ -35,7 +35,7 @@ a:active{
 
 body {
   height: 100%;
-  background-color: #f7a5c6;
+  background-color: #f7a5c6 !important;
 }
 
 h1 {
