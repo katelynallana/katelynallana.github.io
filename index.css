@@ -1,45 +1,12 @@
+ul{
+  list-style: none;
+  padding:0;
+  margin:0;
+}
+
 .menu{
-  overflow: hidden;
-  background-color: #C58FE0;
-  padding: 20px 300px 20px;
-  margin: auto;
-}
-
-.menu a{
-  overflow: hidden;
-  background-color: #C58FE0;
-  color:black;
-  padding: 12px 6px 12px 6px;
-  text-decoration: none;
-  font-size: 18px;
-  line-height:200px;
-  border-radius: 4px;
-}
-
-.menu a:hover{
-  background-color: #C58FE0;
-  color:black;
-}
-
-.menu a.active{
-  background-color: #98C6E3;
-  color: black;
-}
-
-.menu-center{
-  float:center;
-}
-
-@media screen and (max-width: 500px){
-  .header a {
-    float:none;
-    display:block;
-    text-align:center;
-    padding: 12px 50px 12px 50px;
-  }
-  .header-right{
-    float:none;
-  }
+  display: flex;
+  justify-content: space-between;
 }
 
 h1 {
