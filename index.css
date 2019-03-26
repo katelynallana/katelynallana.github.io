@@ -10,6 +10,7 @@ a:link{
   display: block;
   clear:both;
   margin: 10px 20px;
+  border-radius: 15px 50px 30px 5px;
 }
 
 a:visited{
