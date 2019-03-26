@@ -6,11 +6,6 @@ ul{
 
 a:link{
   color:black;
-  padding: 10px 20px;
-  display: block;
-  clear:both;
-  margin: 30px 60px;
-  border-radius: 50px;
 }
 
 a:visited{
