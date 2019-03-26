@@ -16,6 +16,7 @@ a:visited{
 a:hover{
   color:black;
   background-color: #f7a5c6;
+  text-decoration:none;
 }
 
 a:active{
