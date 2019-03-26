@@ -58,8 +58,11 @@ p {
   text-align: center;
  }
 
+footer {
+  text-align: right;
+}
+
 .fa {
   font-size: 120px;
-  padding: 40px;
-  text-align: right;
+  padding: 20px;
 }
