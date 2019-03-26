@@ -1,12 +1,12 @@
 ul{
   list-style: none;
-  padding:20px;
+  padding:40px;
   margin:0;
 }
 
 .menu{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 h1 {
