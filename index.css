@@ -30,7 +30,8 @@ a:active{
 .menu{
   display: flex;
   justify-content: space-around;
-  background-color: #C58FE0
+  background-color: #C58FE0;
+  height: 100px;
 }
 
 h1 {
