@@ -45,7 +45,9 @@ row {
   height: auto;
   text-align:center;
   padding:20px;
-  flex-wrap: wrap;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
 }
 
 img {
