@@ -6,7 +6,10 @@ ul{
 
 a:link{
   color:black;
-  margin: 20px;
+  padding: 5px 10px;
+  display: block;
+  clear:both;
+  margin: 10px 10px;
 }
 
 a:visited{
