@@ -37,11 +37,11 @@ h1 {
   color:black;
   font-size-adjust: auto;
   margin:auto;
-  text-align: center;
+  text-align: left;
 }
 
 footer {
-  text-align: left;
+  text-align: right;
 }
 
 .fa {
