@@ -58,6 +58,10 @@ p {
   text-align: center;
  }
 
-.footer{
-  color: pink;
+.fab {
+  font-size: 60px;
+}
+
+.fas {
+  font-size: 60px;
 }
