@@ -3,6 +3,7 @@ ul{
   padding:40px;
   margin:0px;
   text-decoration: none;
+  font-size-adjust: auto;
 }
 
 a:link{
