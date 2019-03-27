@@ -33,6 +33,18 @@ a:active {
   background-color: #C58FE0;
 }
 
+body, html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url("https://user-images.githubusercontent.com/48893846/55119399-f404d600-50ae-11e9-8c38-58597ea58c4a.jpeg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 h1 {
   color: black;
   font-size-adjust: auto;
