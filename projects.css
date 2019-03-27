@@ -55,8 +55,8 @@ span.purple-overlay {
 
 }
 
-img:hover span.purple-overlay{
-  display: block;
+img:hover {
+  opacity: .7;
 }
 
 h3 {
