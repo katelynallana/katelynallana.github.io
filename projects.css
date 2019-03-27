@@ -46,10 +46,10 @@ img {
   margin-right: auto;
   width: 50%;
   border: 1px solid black !important;
+  background-color: #C58FE0;
 }
 
 img:hover {
-  background-color: #C58FE0;
   opacity: .7;
 }
 
