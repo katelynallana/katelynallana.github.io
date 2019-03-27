@@ -48,20 +48,8 @@ img {
   border: 1px solid black !important;
 }
 
-span.purple-overlay {
-  background: #C58FE0;
-  display: none;
-  position: relative:absolute;
-}
-
-img:hover span.purple-overlay {
-  display:table;
-}
-
-span.purple-overlay span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
+img:hover {
+  opacity: .7;
 }
 
 h3 {
