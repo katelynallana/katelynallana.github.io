@@ -48,6 +48,11 @@ img {
   border: 1px solid black !important;
 }
 
+img.hover {
+  background-color: #C58FE0;
+  opacity: .7;
+}
+
 h3 {
   text-align: center;
   padding: 0px 0px 0px 0px;
