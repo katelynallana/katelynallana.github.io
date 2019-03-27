@@ -48,8 +48,15 @@ img {
   border: 1px solid black !important;
 }
 
-img:hover {
-  opacity: .7;
+span.purple-overlay {
+  background: #C58FE0;
+  display: none;
+  position: relative;
+
+}
+
+img:hover span.purple-overlay{
+  display: block;
 }
 
 h3 {
