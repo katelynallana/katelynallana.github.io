@@ -46,7 +46,7 @@ img {
   margin-right: auto;
   width: 50%;
   border: 1px solid black !important;
-  background-color: #C58FE0;
+  background-color: #C58FE0 !important;
 }
 
 img:hover {
