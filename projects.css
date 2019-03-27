@@ -33,21 +33,21 @@ a:active {
   background-color: #C58FE0;
 }
 
-row {
-  width: auto;
-  height: auto;
-  text-align: center;
-  padding: 50px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-between;
-}
-
 h1 {
   color: black;
   font-size-adjust: auto;
   margin: auto;
   text-align: center;
+}
+
+row {
+  width: auto;
+  height: auto;
+  text-align: center;
+  padding: 50px 50px 50px 50px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
 }
 
 img {
