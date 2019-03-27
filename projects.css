@@ -48,7 +48,7 @@ img {
   border: 1px solid black !important;
 }
 
-img.hover {
+img:hover {
   background-color: #C58FE0;
   opacity: .7;
 }
