@@ -37,7 +37,7 @@ row {
   width: auto;
   height: auto;
   text-align: center;
-  padding: 20px;
+  padding: 50px;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
