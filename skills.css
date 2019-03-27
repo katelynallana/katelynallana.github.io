@@ -58,6 +58,10 @@ img {
   object-fit: contain;
 }
 
+p {
+  padding: 20px;
+}
+
 footer {
   text-align: center;
 }
