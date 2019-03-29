@@ -20,6 +20,16 @@
   text-decoration: none;
 }
 
+.col-sm-3 {
+  float: left;
+  width: 25%;
+}
+
+.row: after {
+  display: table;
+  clear: both;
+}
+
 a:hover {
   color: black;
   background-color: #f7a5c6;
