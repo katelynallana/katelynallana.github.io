@@ -35,7 +35,6 @@ a:active {
 
 body, html {
   height: 100%;
-  background-color: black;
 }
 
 .bg {
@@ -58,21 +57,21 @@ body, html {
 }
 
 h1 {
-  color: white;
+  color: black;
   font-size-adjust: auto;
   margin: auto;
   text-align: center;
 }
 
 h2 {
-  color: white;
+  color: black;
   font-size-adjust: auto;
   margin: auto;
   text-align: center;
 }
 
 p {
-  color: white;
+  color: black;
   font-size-adjust: auto;
   margin: auto;
   padding-left: 100px;
