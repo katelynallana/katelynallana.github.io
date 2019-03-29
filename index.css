@@ -2,12 +2,14 @@
   font-family: 'Font Name', Heebo;
 }
 
-ul {
-  list-style: none;
-  padding: 40px;
-  margin: 0px;
-  text-decoration: none;
-  font-size-adjust: auto;
+nav {
+  width: auto;
+  height: auto;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
 }
 
 a:link {
