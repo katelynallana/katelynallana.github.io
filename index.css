@@ -83,10 +83,7 @@ p {
   color: black;
   font-size-adjust: auto;
   margin: auto;
-  padding-top: auto;
-  padding-left: 100px;
-  padding-right: 100px;
-  padding-bottom: auto;
+  padding: auto;
   text-align: center;
   font-family: 'Poppins', sans-serif;
  }
