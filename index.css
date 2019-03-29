@@ -41,12 +41,11 @@ body, html {
   background-image: url("https://user-images.githubusercontent.com/48893846/55120031-87d7a180-50b1-11e9-9d16-b79ae373205f.jpg");
   height: 100%;
   background-position: center;
-  background-repeat: no-repeat;
+  position: absolute;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  position: absolute;
   top: 50%;
   bottom: 0;
   left: 0;
