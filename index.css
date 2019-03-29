@@ -40,7 +40,15 @@ body, html {
 .container {
   position: relative;
   text-align: center;
-  color: white;
+  color: black;
+}
+
+.img {
+  padding: 0px;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 
 .top-centered {
