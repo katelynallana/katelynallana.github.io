@@ -42,6 +42,9 @@ body, html {
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   position: absolute;
   top: 50%;
@@ -49,6 +52,8 @@ body, html {
   left: 0;
   right: 0;
   transform: translateY(-50%);
+  background-color: black;
+  opacity: 0.5;
 }
 
 h1 {
