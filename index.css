@@ -1,5 +1,5 @@
 .css-selector {
-  font-family: 'Font Name', Heebo;
+  font-family: 'Font Name', Poppins;
 }
 
 .nav {
@@ -18,7 +18,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none !important;
-  font-family: 'Heebo', Roboto;
+  font-family: 'Poppins', sans-serif;
 }
 
 .col-sm-3 {
@@ -67,7 +67,7 @@ h1 {
   margin: auto;
   text-align: center;
   padding-top: 20px;
-  font-family: 'Heebo', Roboto;
+  font-family: 'Poppins', sans-serif;
 }
 
 h3 {
@@ -75,7 +75,7 @@ h3 {
   font-size-adjust: auto;
   margin: auto;
   text-align: center;
-  font-family: 'Heebo', Roboto;
+  font-family: 'Poppins', sans-serif;
 }
 
 p {
@@ -85,7 +85,7 @@ p {
   padding-left: 100px;
   padding-right: 100px;
   text-align: center;
-  font-family: 'Heebo', Roboto;
+  font-family: 'Poppins', sans-serif;
  }
 
 footer {
