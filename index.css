@@ -31,7 +31,7 @@
 }
 
 a:hover {
-  color: black;
+  color: black !important;
   background-color: #f7a5c6;
   border-radius: 15px;
   w
@@ -88,5 +88,5 @@ footer {
 
 .fa {
   padding: 15px;
-  size:
+  color: white;
 }
