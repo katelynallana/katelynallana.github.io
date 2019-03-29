@@ -65,7 +65,7 @@ h1 {
   color: black;
   font-size-adjust: auto;
   margin: auto;
-  text-align: right;
+  text-align: center;
   padding-top: 100px;
   padding-right: 100px;
   font-family: 'Poppins', sans-serif;
@@ -75,9 +75,9 @@ h3 {
   color: black;
   font-size-adjust: auto;
   margin: auto;
-  padding-top: 150px;
-  padding-right: 200px;
-  text-align: right;
+  padding-top: 20px;
+  padding-left: 100px;
+  text-align: center;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -85,37 +85,13 @@ p {
   color: black;
   font-size-adjust: auto;
   margin: auto;
-  padding-top: 200px;
+  padding-top: 0px;
   padding-left: 100px;
-  padding-right: 100px;
-  text-align: right;
+  text-align: center;
   font-family: 'Poppins', sans-serif;
  }
 
- @media only screen and (max-width: 950px){
-   h1 {
-     text-align: center;
-     padding-top: 20px;
-     padding-left: 100px;
-   }
-   h3 {
-     padding-top: 0px;
-     padding-left: 100px;
-     padding-right: 100px;
-     text-align: center;
-   }
-   p {
-     text-align: center;
-     padding-top: 0px;
-     padding-left: 100px;
-   }
-   footer {
-     padding-bottom: 100px;
-   }
- }
-
 footer {
-  padding-bottom: 100px;
   text-align: center;
 }
 
