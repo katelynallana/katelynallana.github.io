@@ -74,6 +74,7 @@ h3 {
   color: black;
   font-size-adjust: auto;
   margin: auto;
+  padding-top: 100px;
   text-align: center;
   font-family: 'Poppins', sans-serif;
 }
@@ -99,6 +100,7 @@ p {
  }
 
 footer {
+  padding-bottom: 100px;
   text-align: center;
 }
 
