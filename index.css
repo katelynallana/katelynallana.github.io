@@ -40,7 +40,6 @@ a:hover {
 
 body, html {
   height: 100%;
-  font-family: 'Heebo', Roboto;
 }
 
 .bg {
@@ -68,6 +67,7 @@ h1 {
   margin: auto;
   text-align: center;
   padding-top: 20px;
+  font-family: 'Heebo', Roboto;
 }
 
 h3 {
@@ -75,6 +75,7 @@ h3 {
   font-size-adjust: auto;
   margin: auto;
   text-align: center;
+  font-family: 'Heebo', Roboto;
 }
 
 p {
@@ -84,6 +85,7 @@ p {
   padding-left: 100px;
   padding-right: 100px;
   text-align: center;
+  font-family: 'Heebo', Roboto;
  }
 
 footer {
