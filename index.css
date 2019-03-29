@@ -24,6 +24,8 @@
 a:hover {
   color: black;
   background-color: #f7a5c6;
+  border-radius: 15px;
+  w
 }
 
 body, html {
