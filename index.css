@@ -82,7 +82,7 @@ p {
   color: black;
   font-size-adjust: auto;
   margin: auto;
-  padding-top: 100px;
+  padding-top: 400px;
   padding-left: 100px;
   padding-right: 100px;
   text-align: center;
@@ -90,6 +90,9 @@ p {
  }
 
  @media only screen and (max-width: 950px){
+   h3{
+     padding-top: 0px;
+   }
    p{
      padding-top: 0px;
    }
