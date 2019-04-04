@@ -64,6 +64,7 @@ a:hover {
 .col-sm-6 {
   float: center;
   width: 25%;
+  object-fit: contain;
 }
 
 .right {
