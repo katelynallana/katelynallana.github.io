@@ -47,6 +47,7 @@ a:hover {
   scroll-behavior: smooth;
   height: auto;
   width: auto;
+  padding-top: 30px;
 }
 
 .top-page p {
