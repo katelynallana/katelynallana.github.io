@@ -46,8 +46,17 @@ a:hover {
 }
 
 .top-page {
-  text-align: center;
-  vertical-align: center;
+  height: 10em;
+  position: relative;
+}
+
+.top-page h1 & .top-page h3 & .top-page p {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%,-50%);
 }
 
 .bio {
