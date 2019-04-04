@@ -47,19 +47,18 @@ a:hover {
   scroll-behavior: smooth;
   height: auto;
   width: auto;
-  margin-top: 300px;
 }
 
 .top-page {
-  margin-top: 300px;
+  text-align: center;
 }
 
 .bio {
-  margin-top: 300px;
+  text-align: left;
 }
 
 .work{
-  margin-top: 300px;
+  text-align: left;
 }
 
 h1 {
