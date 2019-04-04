@@ -49,14 +49,10 @@ a:hover {
   border-radius: 15px;
 }
 
-body {
-  margin-top: 30px;
-}
-
 h1 {
   color: black;
   font-size-adjust: auto;
-  margin: auto;
+  margin-top: 30px;
   text-align: center;
   padding-top: auto;
   font-family: 'Poppins', sans-serif;
