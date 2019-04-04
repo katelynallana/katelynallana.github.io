@@ -68,6 +68,7 @@ a:hover {
 .bio img{
   z-index: -1;
   object-fit: contain;
+  padding: 100px;
 }
 
 .bio p {
