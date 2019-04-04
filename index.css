@@ -35,7 +35,8 @@
   display: block;
   overflow-y: scroll;
   scroll-behavior: smooth;
-  text-align: center;
+  height: auto;
+  width: auto;
 }
 
 a:hover {
