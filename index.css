@@ -49,14 +49,10 @@ a:hover {
   width: auto;
 }
 
-.top-page {
-  text-align: center;
-  float: center;
-}
-
 .top-page p {
   float: center;
   text-align: center;
+  padding-top: 500px;
 }
 
 .bio {
