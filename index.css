@@ -45,6 +45,11 @@ a:hover {
   padding-top: 30px;
 }
 
+.top-page {
+  text-align: center;
+  vertical-align: center;
+}
+
 .bio {
   text-align: left;
   z-index: -1;
