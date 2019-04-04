@@ -58,7 +58,6 @@ a:hover {
 .col-sm-6 {
   float: center;
   width: 25%;
-  object-fit: contain;
 }
 
 .right {
@@ -68,7 +67,7 @@ a:hover {
 
 .bio img{
   z-index: -1;
-  padding-left: 100px;
+  object-fit: contain;
 }
 
 .bio p {
