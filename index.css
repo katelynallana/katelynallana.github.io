@@ -61,9 +61,9 @@ a:hover {
   width: 25%;
 }
 
-.right {
-  float: right;
-  padding: 0 20px 20px 0;
+.left {
+  float: left;
+  padding: 100px 20px 20px 0;
 }
 
 .bio img{
