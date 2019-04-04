@@ -14,7 +14,6 @@
   z-index: 1;
 }
 
-
 .nav a {
   float: center;
   display: block;
@@ -29,11 +28,6 @@
 .col-sm-4 {
   float: center;
   width: 25%;
-}
-
-.row: after {
-  display: table;
-  clear: both;
 }
 
 a:hover {
