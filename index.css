@@ -51,12 +51,6 @@ a:hover {
   padding-top: 30px;
 }
 
-.top-page p {
-  float: center;
-  text-align: center;
-  padding-top: 500px;
-}
-
 .bio {
   text-align: left;
 }
@@ -102,6 +96,10 @@ h3 {
   padding-top: 0px;
   text-align: center;
   font-family: 'Poppins', sans-serif;
+}
+
+p {
+  text-align: center;
 }
 
 footer {
