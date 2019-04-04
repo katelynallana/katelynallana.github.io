@@ -38,29 +38,6 @@ a:hover {
   w
 }
 
-body, html {
-  height: 100%;
-}
-
-.bg {
-  background-image: url("https://user-images.githubusercontent.com/48893846/55120031-87d7a180-50b1-11e9-9d16-b79ae373205f.jpg");
-  background-color: black;
-  height: 100%;
-  background-position: center;
-  position: absolute;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  top: 50%;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  transform: translateY(-50%);
-  z-index: -1;
-  opacity: .3;
-}
-
 h1 {
   color: black;
   font-size-adjust: auto;
