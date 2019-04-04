@@ -33,8 +33,6 @@
 
 .scrolling-box {
   display: block;
-  height: 200px;
-  width: 200px;
   overflow-y: scroll;
   scroll-behavior: smooth;
   text-align: center;
