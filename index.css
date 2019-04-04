@@ -3,17 +3,21 @@
 }
 
 .nav {
-  width: auto;
+  width: 100%;
   height: auto;
   text-align: center;
   padding: 20px;
   display: flex;
   justify-content: space-around;
   background-color: ##ffcce6;
+  position: fixed;
+  overflow: hidden;
+  top: 0;
 }
 
 .nav a {
   float: center;
+  display: block;
   color: black;
   text-align: center;
   padding: 14px 16px;
