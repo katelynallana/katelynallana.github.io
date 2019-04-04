@@ -53,6 +53,7 @@ a:hover {
 
 .bio {
   text-align: left;
+  z-index: -1;
 }
 
 .col-sm-6 {
@@ -68,7 +69,8 @@ a:hover {
 .bio img{
   z-index: -1;
   object-fit: contain;
-  padding: 100px;
+  height: 100%;
+  width: 100%;
 }
 
 .bio p {
