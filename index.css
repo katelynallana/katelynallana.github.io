@@ -63,14 +63,11 @@ a:hover {
 
 .left {
   float: left;
-  padding: 100px 20px 20px 0;
-}
-
-.bio img{
+  padding: 20px;
   z-index: -1;
   object-fit: contain;
   height: 100%;
-  width: 100%;
+  weight: 100%;
 }
 
 .bio p {
