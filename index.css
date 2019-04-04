@@ -54,6 +54,11 @@ a:hover {
   float: center;
 }
 
+.top-page p {
+  float: center;
+  text-align: center;
+}
+
 .bio {
   text-align: left;
 }
