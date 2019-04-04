@@ -66,11 +66,12 @@ img {
   height: 50%;
   width: 50%;
   float: right;
+  padding-right: 100px;
 }
 
 .bio p {
   float: left;
-  text-align: justify;
+  text-align: left;
   padding: 30px;
 }
 
