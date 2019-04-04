@@ -41,6 +41,7 @@
   scroll-behavior: smooth;
   height: auto;
   width: auto;
+  margin-top: 200px;
 }
 
 a:hover {
@@ -52,7 +53,7 @@ a:hover {
 h1 {
   color: black;
   font-size-adjust: auto;
-  margin-top: 30px;
+  margin: auto;
   text-align: center;
   padding-top: auto;
   font-family: 'Poppins', sans-serif;
@@ -61,7 +62,7 @@ h1 {
 h3 {
   color: black;
   font-size-adjust: auto;
-  margin-top: 30px;
+  margin: auto;
   padding-top: 0px;
   text-align: center;
   font-family: 'Poppins', sans-serif;
