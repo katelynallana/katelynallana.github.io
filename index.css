@@ -60,8 +60,14 @@ a:hover {
 .right {
   float: right;
   padding: 0 20px 20px 0;
-  height: 50%;
-  weight: 50%;
+  height: 25%;
+  weight: 25%;
+}
+
+.bio-text {
+  float: left;
+  text-align: justify;
+  padding: 30px;
 }
 
 .work{
