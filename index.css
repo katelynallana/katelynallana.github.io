@@ -70,7 +70,7 @@ a:hover {
   z-index: -1;
 }
 
-.bio-text {
+.bio p {
   float: left;
   text-align: justify;
   padding: 30px;
