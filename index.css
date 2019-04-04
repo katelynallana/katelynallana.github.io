@@ -57,6 +57,13 @@ a:hover {
   text-align: left;
 }
 
+.right {
+  float: right;
+  padding: 0 20px 20px 0;
+  height: 50%;
+  weight: 50%;
+}
+
 .work{
   text-align: left;
 }
