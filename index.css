@@ -61,6 +61,7 @@ a:hover {
 .bio {
   text-align: left;
   z-index: -1;
+  position: relative;
 }
 
 .col-sm-6 {
@@ -90,6 +91,7 @@ img {
 
 .work{
   text-align: left;
+  poatition: relative;
 }
 
 h1 {
@@ -117,6 +119,7 @@ p {
 footer {
   text-align: center;
   padding-bottom: auto;
+  position: relative;
 }
 
 .fa {
