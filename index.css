@@ -107,6 +107,15 @@ img {
   padding-right: 100px;
 }
 
+.bio h1 {
+  text-align: right;
+  color: black;
+  font-size-adjust: auto;
+  margin: auto;
+  padding-top: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+
 .bio p {
   float: left;
   text-align: left;
@@ -115,7 +124,22 @@ img {
 
 .work{
   text-align: left;
-  poatition: relative;
+  position: relative;
+}
+
+.work h1 {
+  text-align: left;
+  color: black;
+  font-size-adjust: auto;
+  margin: auto;
+  padding: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.work p {
+  float: right;
+  text-align: right;
+  padding: 30px;
 }
 
 footer {
