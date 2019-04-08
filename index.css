@@ -137,8 +137,14 @@ img {
 }
 
 .work p {
+  float: left;
+  text-align: left;
+  padding: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.work img {
   float: right;
-  text-align: right;
   padding: 30px;
 }
 
