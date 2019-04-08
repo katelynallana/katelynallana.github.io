@@ -50,6 +50,30 @@ a:hover {
   position: absolute;
 }
 
+.top-page h1 {
+  text-align: center;
+  color: black;
+  font-size-adjust: auto;
+  margin: auto;
+  padding-top: auto;
+  font-family: 'Poppins', sans-serif;
+}
+
+.top-page h3 {
+  color: black;
+  font-size-adjust: auto;
+  margin: auto;
+  padding-top: 0px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.top-page p {
+  text-align: center;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
 .centered{
   position: absolute;
   top: 50%;
@@ -92,28 +116,6 @@ img {
 .work{
   text-align: left;
   poatition: relative;
-}
-
-h1 {
-  color: black;
-  font-size-adjust: auto;
-  margin: auto;
-  text-align: center;
-  padding-top: auto;
-  font-family: 'Poppins', sans-serif;
-}
-
-h3 {
-  color: black;
-  font-size-adjust: auto;
-  margin: auto;
-  padding-top: 0px;
-  text-align: center;
-  font-family: 'Poppins', sans-serif;
-}
-
-p {
-  text-align: center;
 }
 
 footer {
