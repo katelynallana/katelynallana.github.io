@@ -45,7 +45,10 @@ a:hover {
   padding-top: 30px;
 }
 
-
+#top-page {
+  height: 1000px;
+  position: absolute;
+}
 
 footer {
   text-align: center;
