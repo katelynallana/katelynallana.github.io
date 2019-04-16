@@ -55,6 +55,19 @@ a:hover {
   margin: 5px auto;
   font-family: 'Poppins',sans-serif;
   text-align: center;
+}
+
+#top-page h1 {
+  top: 50%;
+  transform: translate (-50%, -50%);
+}
+
+#top-page h3 {
+  top: 50%;
+  transform: translate (-50%, -50%);
+}
+
+#top-page p {
   top: 50%;
   transform: translate (-50%, -50%);
 }
