@@ -7,8 +7,8 @@
   height: auto;
   text-align: center;
   padding: 20px;
-  display: flex;
-  justify-content: space-between;
+  display: inline-block;
+  justify-content: space-around;
   background-color: white;
   top: 0;
   z-index: 1;
@@ -16,7 +16,7 @@
 
 .nav a {
   float: center;
-  display: block;
+  display: inline;
   color: black;
   text-align: center;
   padding: 14px 16px;
