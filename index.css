@@ -58,7 +58,8 @@ a:hover {
 }
 
 #top-page h1{
-  vertical-align: center;
+  margin: auto;
+  padding-top: auto;
 }
 
 #bio {
