@@ -45,19 +45,21 @@ a:hover {
   padding-top: 30px;
 }
 
+#content {
+  position: relative;
+}
+
 #top-page {
   height: 1000px;
-  position: fixed;
+  margin: 5px auto;
 }
 
 #bio {
   height: 1000px;
-  position: fixed;
 }
 
 #work {
   height: 1000px;
-  position: fixed;
 }
 
 footer {
