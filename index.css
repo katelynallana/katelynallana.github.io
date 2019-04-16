@@ -50,6 +50,16 @@ a:hover {
   position: absolute;
 }
 
+#bio {
+  height: 1000px;
+  position: absolute;
+}
+
+#work {
+  height: 1000px;
+  position: absolute;
+}
+
 footer {
   text-align: center;
   padding-bottom: auto;
