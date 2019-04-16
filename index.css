@@ -55,8 +55,10 @@ a:hover {
   margin: 5px auto;
   font-family: 'Poppins',sans-serif;
   text-align: center;
+}
+
+#top-page h1, h3, p {
   vertical-align: center;
-  display: inline-block;
 }
 
 #bio {
