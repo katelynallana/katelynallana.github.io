@@ -47,17 +47,17 @@ a:hover {
 
 #top-page {
   height: 1000px;
-  position: absolute;
+  position: fixed;
 }
 
 #bio {
   height: 1000px;
-  position: absolute;
+  position: fixed;
 }
 
 #work {
   height: 1000px;
-  position: absolute;
+  position: fixed;
 }
 
 footer {
