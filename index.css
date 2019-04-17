@@ -57,7 +57,7 @@ a:hover {
   text-align: center;
 }
 
-.top-page > .p {
+.content > .top-page {
   display: table-cell;
   vertical-align: middle;
 }
