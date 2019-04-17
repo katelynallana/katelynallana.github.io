@@ -51,6 +51,7 @@ a:hover {
   font-family: 'Poppins',sans-serif;
   text-align: center;
   display: block;
+  margin: 20px;
 }
 
 .col-sm-12 {
