@@ -46,6 +46,14 @@ a:hover {
   padding-top: 30px;
 }
 
+#top-page {
+  height: 1000px;
+  font-family: 'Poppins',sans-serif;
+  text-align: center;
+  display: flex;
+  vertical-align: middle;
+}
+
 #content {
   position: relative;
 }
