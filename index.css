@@ -46,8 +46,9 @@ a:hover {
   padding-top: 30px;
 }
 
-row {
+.top-page.text {
   float: center;
+  text-align: center;
 }
 
 #content {
