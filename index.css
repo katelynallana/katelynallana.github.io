@@ -49,9 +49,6 @@ a:hover {
 #top-page {
   height: 1000px;
   font-family: 'Poppins',sans-serif;
-  text-align: center;
-  display: table-row;
-  vertical-align: middle;
 }
 
 .top-page.text {
