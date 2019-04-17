@@ -10,8 +10,6 @@
   display: flex;
   justify-content: space-around;
   background-color: purple;
-  top: 0;
-  z-index: 1;
   position: sticky;
 }
 
