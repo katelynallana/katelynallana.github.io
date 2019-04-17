@@ -46,6 +46,16 @@ a:hover {
   padding-top: 30px;
 }
 
+.col-sm-12 {
+  float: center;
+  width: 25%;
+}
+
+.col-md-12 {
+  float: center;
+  width: 25%;
+}
+
 #content {
   position: relative;
 }
