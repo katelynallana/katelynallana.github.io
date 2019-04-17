@@ -48,12 +48,10 @@ a:hover {
 
 .col-sm-12 {
   float: center;
-  width: 25%;
 }
 
 .col-md-12 {
   float: center;
-  width: 25%;
 }
 
 #content {
@@ -65,7 +63,7 @@ a:hover {
   width: 100%;
   margin: 10px auto;
   font-family: 'Poppins',sans-serif;
-  text-align: center !important;
+  text-align: center;
   display: table-cell;
   vertical-align: middle;
 }
