@@ -61,7 +61,6 @@ a:hover {
   display: flex;
   -webkit-flex-align: center;
   align-items: center;
-  justify-content: center;
 }
 #bio {
   height: 1000px;
