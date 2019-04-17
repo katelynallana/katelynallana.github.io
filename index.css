@@ -59,6 +59,7 @@ a:hover {
   height: 1000px;
   font-family: 'Poppins',sans-serif;
   text-align: center;
+  display: flex;
   vertical-align: middle;
 }
 
