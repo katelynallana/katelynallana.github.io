@@ -52,12 +52,13 @@ a:hover {
 
 #top-page {
   height: 750px;
+  width: 100%;
   margin: 10px auto;
   font-family: 'Poppins',sans-serif;
   text-align: center;
   display: table-cell;
   vertical-align: middle;
-  left: 500px;  
+  left: 50%;
 }
 
 #bio {
