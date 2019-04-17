@@ -55,6 +55,13 @@ a:hover {
   margin: 10px auto;
   font-family: 'Poppins',sans-serif;
   text-align: center;
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flexbox;
+  display: flex;
+  -webkit-flex-align: center;
+  align-items: center;
+  justify-content: center;
 }
 #bio {
   height: 1000px;
