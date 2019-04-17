@@ -55,10 +55,9 @@ a:hover {
   width: 100%;
   margin: 10px auto;
   font-family: 'Poppins',sans-serif;
-  text-align: center;
+  text-align: center !important;
   display: table-cell;
   vertical-align: middle;
-  left: 50%;
 }
 
 #bio {
