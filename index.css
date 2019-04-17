@@ -57,8 +57,9 @@ a:hover {
   text-align: center;
 }
 
-#top-page > p {
-  top: 50%;
+.top-page > .p {
+  display: table-cell;
+  vertical-align: middle;
 }
 
 #bio {
