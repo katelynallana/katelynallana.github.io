@@ -52,6 +52,12 @@ a:hover {
   text-align: center;
   display: flex;
   vertical-align: middle;
+  float: center
+}
+
+.top-page.text {
+  float: center;
+  text-align: center;
 }
 
 #content {
