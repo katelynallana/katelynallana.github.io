@@ -10,6 +10,7 @@
   display: flex;
   justify-content: space-around;
   background-color: white;
+  position: relative;
 }
 
 .nav a {
@@ -24,7 +25,6 @@
 .col-sm-4 {
   float: center;
   width: 25%;
-  position: fixed;
 }
 
 a:hover {
