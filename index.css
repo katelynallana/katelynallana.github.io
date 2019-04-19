@@ -42,12 +42,15 @@ a:hover {
   padding-top: 30px;
 }
 
+body {
+  margin: 20px;
+}
+
 #top-page {
   height: 1000px;
   font-family: 'Poppins',sans-serif;
   text-align: center;
   display: block;
-  margin: 20px;
 }
 
 .col-sm-12 {
