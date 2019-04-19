@@ -8,13 +8,12 @@
   text-align: center;
   display: flex;
   justify-content: space-around;
-  background-color: pink;
   position: fixed;
 }
 
 .navbar a {
   float: center;
-  color: black;
+  color: white;
   text-align: center;
   text-decoration: none !important;
   font-family: 'Poppins', sans-serif;
