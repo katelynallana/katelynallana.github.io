@@ -28,7 +28,8 @@
   float: center;
   width: 25%;
   margin: 20px;
-  background-color: red;
+  border-width: 20px;
+  border-color: red;
 }
 
 a:hover {
