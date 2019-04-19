@@ -9,8 +9,18 @@
   padding: 20px;
   display: flex;
   justify-content: space-around;
-  background-color: white !important;
+  background-color: white;
   position: fixed;
+}
+
+body {
+  padding-top: 60px;
+}
+
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
 }
 
 .nav a {
