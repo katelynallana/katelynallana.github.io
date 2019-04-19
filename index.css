@@ -2,7 +2,7 @@
   font-family: 'Font Name', Poppins;
 }
 
-.nav {
+.navbar {
   width: 100%;
   height: auto;
   text-align: center;
@@ -12,7 +12,7 @@
   position: fixed;
 }
 
-.nav a {
+.navbar a {
   float: center;
   color: black;
   text-align: center;
