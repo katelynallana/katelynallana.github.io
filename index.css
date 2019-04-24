@@ -44,7 +44,8 @@ a:hover {
 
 body {
   padding-top: 20px;
-  height: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
   width: 100%;
 }
 
