@@ -3,12 +3,12 @@
 }
 
 .navbar {
-  width: auto;
+  width: 100%;
   height: auto;
   text-align: center;
   display: flex;
-  justify-content: space-around;
   padding: 20px;
+  position: fixed;
 }
 
 .navbar a {
