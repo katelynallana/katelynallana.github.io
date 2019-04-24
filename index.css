@@ -82,7 +82,7 @@ body {
   padding-right: 10px;
 }
 
-#content {
+#contact {
   height: 1000px;
   margin: 5px auto;
   padding-top: 25px;
@@ -90,7 +90,7 @@ body {
   padding-right: 10px;
 }
 
-#content p {
+#contact p {
   text-align: center;
   text-decoration: none;
 }
