@@ -6,7 +6,7 @@
   width: 100%;
   height: auto;
   text-align: center;
-  display: table-row-group;
+  display: table-row;
   padding: 20px;
   position: fixed;
 }
