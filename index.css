@@ -43,9 +43,6 @@ a:hover {
 }
 
 body {
-  padding-top: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
   width: 100%;
 }
 
@@ -54,6 +51,7 @@ body {
   font-family: 'Poppins',sans-serif;
   text-align: center;
   display: block;
+  padding-top: 20px;
 }
 
 .col-sm-12 {
@@ -71,11 +69,17 @@ body {
 #bio {
   height: 1000px;
   margin: 5px auto;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #work {
   height: 1000px;
   margin: 5px auto;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 footer {
