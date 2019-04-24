@@ -21,16 +21,16 @@
   padding: 14px 16px;
 }
 
+.nav a:hover {
+  color: black !important;
+  background-color: #f7a5c6;
+  border-radius: 15px;
+}
+
 .col-md-3 {
   float: center;
   width: auto;
   padding: 5px;
-}
-
-a:hover {
-  color: black !important;
-  background-color: #f7a5c6;
-  border-radius: 15px;
 }
 
 .scrolling-box {
@@ -88,6 +88,9 @@ body {
   padding-top: 25px;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+#content p {
   text-align: center;
   text-decoration: none;
 }
