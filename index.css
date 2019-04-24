@@ -23,7 +23,7 @@
 
 .col-sm-3 {
   float: center;
-  width: 25%;
+  width: auto;
   padding: 5px;
 }
 
