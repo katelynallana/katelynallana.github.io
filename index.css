@@ -73,9 +73,9 @@ body {
   display: inline-block;
 }
 
-.bio img {
+#bio img {
   object-fit: contain;
-  width: 100px;
+  width: 100%;
   height: auto;
 }
 
