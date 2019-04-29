@@ -75,6 +75,8 @@ body {
 
 .bio img {
   object-fit: contain;
+  width: 100px;
+  height: auto;
 }
 
 #bio-content {
