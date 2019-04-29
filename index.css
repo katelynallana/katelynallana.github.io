@@ -66,6 +66,16 @@ body {
   position: relative;
 }
 
+.bio img {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+
+#bio-content {
+  float: right;
+}
+
 #bio {
   height: 1000px;
   margin: 5px auto;
