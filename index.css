@@ -77,7 +77,7 @@ body {
   object-fit: contain;
   width: 50%;
   height: auto;
-  text-align: center;
+  float: center;
 }
 
 #bio-content {
