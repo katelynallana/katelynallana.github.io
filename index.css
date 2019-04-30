@@ -80,6 +80,10 @@ body {
   display: block;
 }
 
+#bio-photo {
+  justify-content: center;
+}
+
 #bio-content {
   float: right;
 }
