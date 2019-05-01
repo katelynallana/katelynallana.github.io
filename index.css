@@ -10,7 +10,6 @@
   padding: 20px;
   justify-content: space-around;
   position: fixed;
-  margin-bottom: auto;
 }
 
 .nav a {
@@ -45,6 +44,7 @@
 
 body {
   width: 100%;
+  padding-top: 30px;
 }
 
 #top-page {
