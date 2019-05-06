@@ -76,11 +76,11 @@ body {
   width: 50%;
   height: auto;
   display: block;
-  justify-content: center;
 }
 
 #bio-photo {
   justify-content: center;
+  padding-left: 50%;
 }
 
 #bio-content {
