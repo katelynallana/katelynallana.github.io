@@ -79,8 +79,7 @@ body {
 }
 
 #bio-photo {
-  justify-content: center;
-  padding-left: 10px;
+  text-align: center;
 }
 
 #bio-content {
