@@ -105,10 +105,10 @@ body {
   align-items: center;
 }
 
-#gayot-photo{
+#gayot img{
   object-fit: contain !important;
-  width: 50%;
-  height: auto;
+  height: 25%;
+  width: auto;
 }
 
 #contact {
