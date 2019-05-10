@@ -81,7 +81,7 @@ body {
 
 .row {
   object-fit: contain;
-  height: auto;
+  height: 50%;
   display: block;
   text-align: center;
 }
