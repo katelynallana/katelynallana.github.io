@@ -71,20 +71,25 @@ body {
   display: inline-block;
 }
 
-#bio img {
-  object-fit: contain;
-  width: 50%;
-  height: auto;
-  display: block;
-  text-align: center;
-}
-
 #bio {
   height: 750px;
   margin: 5px auto;
   padding-top: 50px;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.row {
+  object-fit: contain;
+  height: auto;
+  display: block;
+  text-align: center;
+}
+
+
+#bio-photo {
+  width: 50%;
+  height: auto;
 }
 
 #work {
