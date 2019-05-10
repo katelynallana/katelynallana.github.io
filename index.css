@@ -79,20 +79,13 @@ body {
   padding-right: 10px;
 }
 
-.row {
+#bio img {
   object-fit: contain;
-  height: 50%;
+  width: 50%;
+  height: auto;
   display: block;
   text-align: center;
   align-items: center;
-}
-
-
-#bio-photo {
-  width: 50%;
-  height: auto;
-  object-fit: contain;
-  align-self: center;
 }
 
 #work {
