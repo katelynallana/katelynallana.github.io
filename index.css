@@ -85,7 +85,6 @@ body {
   width: 50%;
   height: auto;
   display: block;
-  border-color: red;
 }
 
 #work {
@@ -107,7 +106,9 @@ body {
 }
 
 #gayot-photo{
-  object-fit: contain;
+  object-fit: contain !important;
+  width: 50%;
+  height: auto;
 }
 
 #contact {
