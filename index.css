@@ -107,6 +107,7 @@ body {
 
 #gayot img{
   object-fit: contain;
+  overflow: hidden;
   width: 250px;
   height: 250px;
 }
