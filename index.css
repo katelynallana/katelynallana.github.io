@@ -96,6 +96,20 @@ body {
   padding-right: 10px;
 }
 
+.row {
+  display: flex;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+#gayot-photo{
+  object-fit: contain;
+}
+
 #contact {
   height: 750px;
   margin: 5px auto;
