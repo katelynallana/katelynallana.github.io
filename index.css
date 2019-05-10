@@ -103,11 +103,10 @@ body {
   -webkit-align-items: center;
   -webkit-box-align: center;
   align-items: center;
+  object-fit: contain;
 }
 
 #gayot img{
-  object-fit: contain;
-  overflow: hidden;
   width: 250px;
   height: 250px;
 }
