@@ -108,7 +108,7 @@ body {
 #gayot img{
   object-fit: contain;
   width: 250px;
-  height: auto;
+  height: 250px;
 }
 
 #contact {
