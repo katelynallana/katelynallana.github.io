@@ -43,10 +43,6 @@
   padding-top: 30px;
 }
 
-img {
-  float: center !important;
-}
-
 body {
   width: 100%;
 }
@@ -80,15 +76,6 @@ body {
   width: 50%;
   height: auto;
   display: block;
-  float: center;
-}
-
-#bio-photo {
-  float: center;
-}
-
-#bio-content {
-  float: right;
 }
 
 #bio {
