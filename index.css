@@ -76,6 +76,7 @@ body {
   width: 50%;
   height: auto;
   display: block;
+  float: center;
 }
 
 #bio-photo {
