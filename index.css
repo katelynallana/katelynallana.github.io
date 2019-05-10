@@ -71,13 +71,12 @@ body {
   display: inline-block;
 }
 
-.img {
+.bio img {
   object-fit: contain;
   width: 50%;
   height: auto;
   display: block;
   text-align: center;
-  align-items: center;
 }
 
 #bio {
