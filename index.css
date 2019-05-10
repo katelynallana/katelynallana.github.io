@@ -106,9 +106,9 @@ body {
 }
 
 #gayot img{
-  object-fit: contain !important;
-  height: 25%;
-  width: auto;
+  object-fit: contain;
+  width: 250px;
+  height: auto;
 }
 
 #contact {
