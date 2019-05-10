@@ -69,6 +69,7 @@ body {
   height: 100%;
   width: 100%;
   display: inline-block;
+  align-items: center !important;
 }
 
 #bio img {
