@@ -48,7 +48,7 @@ body {
 }
 
 #top-page {
-  height: 900px;
+  height: 800px;
   font-family: 'Poppins',sans-serif;
   text-align: center;
   display: block;
@@ -79,7 +79,7 @@ body {
 }
 
 #bio {
-  height: 900px;
+  height: 800px;
   margin: 5px auto;
   padding-top: 25px;
   padding-left: 10px;
@@ -87,7 +87,7 @@ body {
 }
 
 #work {
-  height: 900px;
+  height: 800px;
   margin: 5px auto;
   padding-top: 25px;
   padding-left: 10px;
@@ -95,7 +95,7 @@ body {
 }
 
 #contact {
-  height: 850px;
+  height: 800px;
   margin: 5px auto;
   padding-top: 25px;
   padding-left: 10px;
