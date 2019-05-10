@@ -95,17 +95,6 @@ body {
   padding-right: 10px;
 }
 
-.row {
-  display: flex;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  align-items: center;
-  object-fit: contain;
-}
-
 #gayot img{
   width: 250px;
   height: 250px;
