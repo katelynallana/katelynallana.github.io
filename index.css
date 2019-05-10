@@ -43,6 +43,10 @@
   padding-top: 30px;
 }
 
+img {
+  text-align: center !important;
+}
+
 body {
   width: 100%;
 }
