@@ -96,19 +96,6 @@ body {
   padding-right: 10px;
 }
 
-.centered-container {
-  object-fit: contain;
-  overflow: hidden;
-  height: 100%;
-  width: 50%;
-  text-align: center;
-  float: center;
-}
-
-.left-align-container {
-  text-align: left;
-}
-
 #gayot img{
   object-fit: contain;
   width: 10px;
