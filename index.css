@@ -70,7 +70,7 @@ body {
   height: 100%;
   width: 100%;
   display: inline-block;
-  object-fit: contain;s
+  object-fit: contain;
 }
 
 #bio {
@@ -98,8 +98,9 @@ body {
 
 #gayot img{
   object-fit: contain;
-  width: 10px;
-  height: 10px;
+  width: 50%;
+  height: auto;
+  display: block;
 }
 
 #contact {
