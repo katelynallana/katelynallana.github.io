@@ -71,7 +71,6 @@ body {
   width: 100%;
   display: inline-block;
   object-fit: contain;
-  padding: 0;
 }
 
 #bio {
@@ -99,7 +98,7 @@ body {
 
 #gayot img{
   object-fit: contain;
-  width: 50%;
+  width: 100%;
   height: auto;
   display: block;
 }
