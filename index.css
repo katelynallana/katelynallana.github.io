@@ -71,6 +71,7 @@ body {
   width: 100%;
   display: inline-block;
   object-fit: contain;
+  padding: 0;
 }
 
 #bio {
