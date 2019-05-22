@@ -83,7 +83,7 @@ body {
 
 #bio img {
   object-fit: contain;
-  width: 50%;
+  width: 50% !important;
   height: auto;
   display: block;
 }
@@ -98,8 +98,8 @@ body {
 
 #gayot img{
   object-fit: contain;
-  height: 100%;
-  width: auto;
+  width: 50% !important;
+  height: auto;
   display: block;
 }
 
