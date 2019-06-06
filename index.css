@@ -81,7 +81,7 @@ body {
   padding-right: 10px;
 }
 
-#bio-img {
+.bio img {
   height: auto;
   width: 50%;
   display: block;
