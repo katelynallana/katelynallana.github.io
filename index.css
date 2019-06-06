@@ -86,6 +86,8 @@ body {
   width: 50% !important;
   object-fit: contain;
   display: block;
+  padding-left: 50%;
+
 }
 
 #work {
