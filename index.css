@@ -82,7 +82,7 @@ body {
 }
 
 #bio-img {
-  object-fit: contain;
+  object-fit: cover;
   height: auto;
   display: block;
 }
