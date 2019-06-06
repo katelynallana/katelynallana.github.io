@@ -83,7 +83,7 @@ body {
 
 #bio img {
   height: auto;
-  width: 50%;
+  width: auto;
   object-fit: contain;
   display: block;
   padding-left: 25%;
