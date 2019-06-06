@@ -103,9 +103,9 @@ body {
 }
 
 #gayot img{
-  object-fit: contain;
   height: auto;
-  width: 75%;
+  width: 10px;
+  object-fit: contain;
   display: block;
   padding-left: 20%;
 }
