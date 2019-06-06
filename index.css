@@ -95,7 +95,7 @@ body {
 }
 
 #work {
-  height: 750px;
+  height: 700px;
   margin: 5px auto;
   padding-top: 50px;
   padding-left: 10px;
@@ -104,9 +104,10 @@ body {
 
 #gayot img{
   object-fit: contain;
-  width: 50% !important;
   height: auto;
+  width: 75%;
   display: block;
+  padding-left: 20%;
 }
 
 #contact {
