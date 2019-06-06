@@ -81,9 +81,10 @@ body {
   padding-right: 10px;
 }
 
-.bio img {
+#bio img {
   height: auto;
-  width: 50%;
+  width: 50% !important;
+  object-fit: contain;
   display: block;
 }
 
