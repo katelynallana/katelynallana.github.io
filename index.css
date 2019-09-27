@@ -18,7 +18,21 @@
   padding: 30px;
 }
 
-#research #design #writing{
+#research {
+  padding: 20px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+}
+
+#designs {
+  padding: 20px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+}
+
+#writing {
   padding: 20px;
   overflow: hidden;
   position: relative;
