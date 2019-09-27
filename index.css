@@ -23,12 +23,12 @@
   overflow: hidden;
   position: relative;
   display: block;
-  background-color: purple;
 }
 
 #research img {
   width: 100%;
   object-fit: contain;
+  background-color: #ca99de;
 }
 
 #research img:hover {
