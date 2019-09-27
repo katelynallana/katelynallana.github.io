@@ -25,20 +25,6 @@
   display: block;
 }
 
-#designs {
-  padding: 20px;
-  overflow: hidden;
-  position: relative;
-  display: block;
-}
-
-#writing {
-  padding: 20px;
-  overflow: hidden;
-  position: relative;
-  display: block;
-}
-
 #research img {
   width: 100%;
   object-fit: contain;
@@ -49,6 +35,43 @@
   transition: .5s ease;
   color: #ca99de;
 }
+
+#design {
+  padding: 20px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+}
+
+#design img {
+  width: 100%;
+  object-fit: contain;
+}
+
+#design img:hover {
+  opacity: .5;
+  transition: .5s ease;
+  color: #ca99de;
+}
+
+#writing {
+  padding: 20px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+}
+
+#writing img {
+  width: 100%;
+  object-fit: contain;
+}
+
+#writing img:hover {
+  opacity: .5;
+  transition: .5s ease;
+  color: #ca99de;
+}
+
 
 #contact-info {
   padding-top: 50px;
