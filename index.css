@@ -23,6 +23,7 @@
   overflow: hidden;
   position: relative;
   display: block;
+  background-color: purple;
 }
 
 #research img {
