@@ -28,12 +28,12 @@
 #research img {
   width: 100%;
   object-fit: contain;
-  background-color: #ca99de;
 }
 
 #research img:hover {
   opacity: .5;
   transition: .5s ease;
+  background-color: #ca99de;
 }
 
 #design {
