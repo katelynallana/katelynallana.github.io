@@ -57,6 +57,10 @@
   text-align: center;
 }
 
+#email {
+  color: #ca99de;
+}
+
 .fa {
   padding: 15px;
   color: black;
