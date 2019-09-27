@@ -33,6 +33,11 @@
   padding: 20px;
 }
 
+#contact-info {
+  padding: 20px;
+  text-align: center;
+}
+
 .fa {
   padding: 15px;
   color: black;
