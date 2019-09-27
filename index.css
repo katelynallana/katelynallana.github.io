@@ -1,3 +1,8 @@
 .css-selector {
   font-family: 'Font Name', Poppins;
 }
+
+.col-sm-4 {
+float: center;
+  overflow: hidden;
+}
