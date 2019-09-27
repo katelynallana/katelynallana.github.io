@@ -21,6 +21,11 @@
 #research {
   border-style: solid;
   padding: 20px;
+  overflow: hidden;
+}
+
+#research img {
+  width: 100%;
 }
 
 #design {
