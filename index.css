@@ -33,7 +33,7 @@
 #research img:hover {
   opacity: .5;
   transition: .5s ease;
-  background-color: #ca99de;
+  color: #ca99de;
 }
 
 #design {
