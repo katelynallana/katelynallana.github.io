@@ -15,12 +15,13 @@
 }
 
 #projects {
-  padding: 40px;
+  padding: 30px;
 }
 
 #research {
   padding: 20px;
   overflow: hidden;
+  position: relative;
 }
 
 #research img {
