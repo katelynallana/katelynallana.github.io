@@ -3,10 +3,12 @@
 }
 
 .col-sm-4 {
-float: center;
+  float: center;
   overflow: hidden;
+  object-fit: contain;
 }
 
 .bio {
-  word-wrap: break-word
+  margin: 5px auto;
+  padding: 10px;
 }
