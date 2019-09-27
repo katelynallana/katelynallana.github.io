@@ -18,7 +18,7 @@
   padding: 30px;
 }
 
-#research {
+#research #design #writing{
   padding: 20px;
   overflow: hidden;
   position: relative;
@@ -34,16 +34,6 @@
   opacity: .5;
   transition: .5s ease;
   color: #ca99de;
-}
-
-#design {
-  border-style: solid;
-  padding: 20px;
-}
-
-#writing {
-  border-style: solid;
-  padding: 20px;
 }
 
 #contact-info {
