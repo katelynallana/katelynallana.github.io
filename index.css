@@ -2,6 +2,15 @@
   font-family: 'Font Name', Poppins;
 }
 
+.row {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+
 .col-sm-4 {
   float: center;
   overflow: hidden;
