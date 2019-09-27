@@ -2,6 +2,10 @@
   font-family: 'Font Name', Poppins;
 }
 
+#name {
+    text-align: center;
+}
+
 #bio {
   padding-top: 50px;
   padding-left: 20px;
